@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "It03svpc/20=",
+  "success": true,
+  "projectFilePath": "C:\\_SourceCode\\MyProjects\\GuildStatsMilan\\GuildStats\\GuildStats.Domain\\GuildStats.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamil.bizon\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
