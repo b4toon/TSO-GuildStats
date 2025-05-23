@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+
+# Rider/JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
